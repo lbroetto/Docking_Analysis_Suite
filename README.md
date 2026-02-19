@@ -1,5 +1,7 @@
 # Docking_Analysis_Suite - Python Tools for Molecular Docking Data Analysis
 
+[![DOI](https://zenodo.org/badge/1162006212.svg)](https://doi.org/10.5281/zenodo.18704239)
+
 A collection of Python scripts for visualizing and analyzing protein-ligand molecular docking results. This repository provides tools to generate publication-quality figures from docking score data, enabling quick assessment of binding affinities and structure-activity relationships.
 
 The script was written and developed by Leonardo Broetto (leonardo.broetto@arapiraca.ufal.br, Lbroetto@gmail.com)
@@ -83,7 +85,7 @@ matplotlib 3.3.0
 
 ### If you use this analysis script in your research, please cite:
 
-Broetto, L. (2026). Python Tools for Molecular Docking Data Analysis (v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXX
+Broetto, L. (2026). Python Tools for Molecular Docking Data Analysis (v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.18704240
 
 or
 
@@ -95,8 +97,8 @@ or
   year         = 2026,
   publisher    = {Zenodo},
   version      = {v1.0.0},
-  doi          = {10.5281/zenodo.XXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXX}
+  doi          = {10.5281/zenodo.18704240},
+  url          = {https://doi.org/10.5281/zenodo.18704240}
 }
 ```
 
