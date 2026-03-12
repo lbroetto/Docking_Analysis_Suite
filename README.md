@@ -2,7 +2,7 @@
 
 [![Article](https://img.shields.io/badge/Article-Published-green.svg)](https://doi.org/10.1007/s13721-026-00767-7)
 
-[![DOI](https://zenodo.org/badge/1162006212.svg)](https://doi.org/10.5281/zenodo.18704239)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18989878.svg)](https://doi.org/10.5281/zenodo.18989878)
 
 A collection of Python scripts for visualizing and analyzing protein-ligand molecular docking results. This repository provides tools to generate publication-quality figures from docking score data, enabling quick assessment of binding affinities and structure-activity relationships.
 
@@ -100,7 +100,7 @@ Exploring the Molecular Basis of Potassium Usnate Activity Against Staphylococcu
 **Software (this version):**
 
 
-Broetto, L. (2026). Python Tools for Molecular Docking Data Analysis (v1.1.0) Version associated with published article [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.18704240
+Broetto, L. (2026). Python Tools for Molecular Docking Data Analysis (v1.1.0) Version associated with published article [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.18989878
 
 or
 
@@ -112,8 +112,8 @@ or
   year         = 2026,
   publisher    = {Zenodo},
   version      = {v1.1.0},
-  doi          = {10.5281/zenodo.18704240},
-  url          = {https://doi.org/10.5281/zenodo.18704240}
+  doi          = {10.5281/zenodo.18989878},
+  url          = {https://doi.org/10.5281/zenodo.18989878}
 }
 ```
 
