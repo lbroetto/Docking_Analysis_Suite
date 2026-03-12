@@ -1,10 +1,19 @@
 # Docking_Analysis_Suite - Python Tools for Molecular Docking Data Analysis
 
+[![Article](https://img.shields.io/badge/Article-Published-green.svg)](https://doi.org/10.1007/s13721-026-00767-7)
+
 [![DOI](https://zenodo.org/badge/1162006212.svg)](https://doi.org/10.5281/zenodo.18704239)
 
 A collection of Python scripts for visualizing and analyzing protein-ligand molecular docking results. This repository provides tools to generate publication-quality figures from docking score data, enabling quick assessment of binding affinities and structure-activity relationships.
 
 The script was written and developed by Leonardo Broetto (leonardo.broetto@arapiraca.ufal.br, Lbroetto@gmail.com)
+
+This script was validated in the published manuscript:
+
+Exploring the Molecular Basis of Potassium Usnate Activity Against Staphylococcus warneri Persistence and Resistance Through Protein Interaction Networks and Molecular Docking
+
+**Published in:** *Network Modeling Analysis in Health Informatics and Bioinformatics* (Springer Nature), 2026  
+**Article DOI:** [10.1007/s13721-026-00767-7](https://doi.org/10.1007/s13721-026-00767-7)
 
 # Contact
 **Authors:** Leonardo Broetto
@@ -85,7 +94,13 @@ matplotlib 3.3.0
 
 ### If you use this analysis script in your research, please cite:
 
-Broetto, L. (2026). Python Tools for Molecular Docking Data Analysis (v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.18704240
+**Article:**
+Exploring the Molecular Basis of Potassium Usnate Activity Against Staphylococcus warneri Persistence and Resistance Through Protein Interaction Networks and Molecular Docking. *Network Modeling Analysis in Health Informatics and Bioinformatics*. https://doi.org/10.1007/s13721-026-00767-7
+
+**Software (this version):**
+
+
+Broetto, L. (2026). Python Tools for Molecular Docking Data Analysis (v1.1.0) Version associated with published article [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.18704240
 
 or
 
@@ -96,7 +111,7 @@ or
   month        = jan,
   year         = 2026,
   publisher    = {Zenodo},
-  version      = {v1.0.0},
+  version      = {v1.1.0},
   doi          = {10.5281/zenodo.18704240},
   url          = {https://doi.org/10.5281/zenodo.18704240}
 }
